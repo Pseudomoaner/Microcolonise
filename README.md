@@ -15,4 +15,4 @@ Analyses that allow 3D segmentation of microcolony data. For full details of the
 ## References
 
 - Jin, J., Yang, L., Zhang, X. & Ding, M. (2013). Vascular tree segmentation in medical images using Hessian-based multiscale filtering and level set method. Computational and Mathematical Methods in Medicine, 502013. https://doi.org/10.1155/2013/502013
-- Kumar, R.K., Meiller-Legrand, T., Alcinesio, A., Gonzalez, D., Mavridou, D.A.I., Meacock, O.J., Smith, W.P.J., Zhou, L., Kim, W., Pulcu, G., Bayley, H. & Foster, K.R. (2021). Droplet printing reveals the importance of micron-scale structure for bacterial ecology. Nat Commun **12**, 857. https://doi.org/10.1038/s41467-021-20996-w
+- Kumar, R.K., Meiller-Legrand, T., Alcinesio, A., Gonzalez, D., Mavridou, D.A.I., Meacock, O.J., Smith, W.P.J., Zhou, L., Kim, W., Pulcu, G., Bayley, H. & Foster, K.R. (2021). Droplet printing reveals the importance of micron-scale structure for bacterial ecology. Nature Communications **12**, 857. https://doi.org/10.1038/s41467-021-20996-w
